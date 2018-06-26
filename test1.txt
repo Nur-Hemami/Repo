@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FA10-B6A6
+
+ Directory of C:\Users\nhemami\Desktop\Myproject
+
+06/26/2018  11:13 AM    <DIR>          .
+06/26/2018  11:13 AM    <DIR>          ..
+06/26/2018  11:12 AM    <DIR>          .git
+06/26/2018  11:13 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  173,133,025,280 bytes free
